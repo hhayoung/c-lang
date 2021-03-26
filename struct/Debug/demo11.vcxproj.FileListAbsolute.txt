@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\demo11\Debug\demo11.exe
+C:\Users\user\source\repos\demo11\Debug\demo11.pdb
+C:\study\c_lang\source\repos\demo_11(struct)\Debug\demo11.exe
+C:\study\c_lang\source\repos\demo_11(struct)\Debug\demo11.pdb

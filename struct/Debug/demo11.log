@@ -1,0 +1,5 @@
+﻿  struct10_1.c
+  struct10.c
+C:\study\c_lang\source\repos\demo_11(struct)\struct10.c(37,17): warning C4101: 'uni2' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  demo11.vcxproj -> C:\study\c_lang\source\repos\demo_11(struct)\Debug\demo11.exe
